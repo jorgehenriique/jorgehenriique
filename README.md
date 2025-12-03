@@ -38,5 +38,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-jorgehenrique7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-henrique7/)](https://www.linkedin.com/in/jorge-henrique7/)
 [![Gmail Badge](https://img.shields.io/badge/-jorgehenriique1337@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgehenriique1337@gmail.com)](mailto:jorgehenriique1337@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/jorgehenriique)
             
